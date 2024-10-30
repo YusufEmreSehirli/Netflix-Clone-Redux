@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner {
+  filter: drop-shadow(0 0 80px rgba(128, 128, 128, 0.336));
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #141414;
+}
